@@ -1,0 +1,5 @@
+<!--pages/my/index.wxml-->
+<text>pages/my/index.wxml</text>
+
+<text style="display: block">mydata: {{mydata}}</text>
+<button bind:tap="goIndex">返回</button>
